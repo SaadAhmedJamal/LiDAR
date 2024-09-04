@@ -12,7 +12,7 @@ lidar_s10T_Simpler.hdf5   -->    Ten Thousand Waveforms Without Noise
 
 ***Deep Learning Model***
 
-Trained Model Weights on Normalized Data:
+Trained Model on Normalized Data:
 
 model_1HT_N.h5          -->  for Attenuation Coefficient 
 
